@@ -9,7 +9,7 @@ The code provides the bare minimum required to reproduce the calibration related
 Most of the starter code is borrowed from the repository https://github.com/torrvision/focal_calibration.
 
 ## Training
-To train on Resnet-50 on CIFAR-10 with default settings, run:
+To train Resnet-50 on CIFAR-10 with default settings, run:
 ```train
 python main.py --dataset cifar10 --model resnet50 --loss adafocal -e 350 --save-path exp/cifar10_resnet50_adafocal
 ```
