@@ -1,8 +1,10 @@
 # AdaFocal: Calibration-aware Adaptive Focal Loss [NeurIPS 2022]
-
-This is the official implementation of "AdaFocal: Calibration-aware Adaptive Focal Loss" published in NeurIPS 2022.
+This is the official implementation of Adafocal paper published in NeurIPS 2022
+```
+Title: AdaFocal: Calibration-aware Adaptive Focal Loss
 Authors: Arindam Ghosh, Thomas Schaaf, and Matt Gormley
 Url: https://proceedings.neurips.cc/paper_files/paper/2022/hash/0a692a24dbc744fca340b9ba33bc6522-Abstract-Conference.html
+```
 
 The code provides the bare minimum required to reproduce the calibration related results obtained from training a ResNet-50 model on the CIFAR-10 dataset using the Adafocal loss function.
 Most of the starter code is borrowed from the repository https://github.com/torrvision/focal_calibration.
