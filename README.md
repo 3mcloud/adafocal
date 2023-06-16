@@ -1,4 +1,4 @@
-# AdaFocal: Calibration-aware Adaptive Focal Loss
+# AdaFocal: Calibration-aware Adaptive Focal Loss [NeurIPS 2022]
 
 This is the official implementation of "AdaFocal: Calibration-aware Adaptive Focal Loss" published in NeurIPS 2022.
 Authors: Arindam Ghosh, Thomas Schaaf, and Matt Gormley
