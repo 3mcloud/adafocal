@@ -1,6 +1,6 @@
 '''
-Metrics to measure calibration of a trained deep neural network.
-This is directly taken from the publicly available code at https://github.com/torrvision/focal_calibration/blob/main/Metrics/metrics.py
+Metrics to measure calibration of a trained neural network.
+This is mostly borrowed from https://github.com/torrvision/focal_calibration/blob/main/Metrics/metrics.py
 '''
 import collections
 
