@@ -5,7 +5,7 @@ This is the official implementation of the paper titled **"AdaFocal: Calibration
 
 The code provides the bare minimum required to reproduce the calibration related results obtained from training a ResNet-50 model on CIFAR-10 dataset using Adafocal loss. <br />
 
-Most of the starter code is borrowed from the repository https://github.com/torrvision/focal_calibration.
+Most of the starter code for training, evaluation and calculating calibration related metrics is borrowed from the repository https://github.com/torrvision/focal_calibration.
 
 ## Training
 To train Resnet-50 on CIFAR-10 with default settings, run:
