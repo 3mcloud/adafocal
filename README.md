@@ -3,8 +3,8 @@ This is the official implementation of the paper titled **"AdaFocal: Calibration
 **Authors: Arindam Ghosh, Thomas Schaaf, and Matt Gormley** <br />
 **Url**: https://proceedings.neurips.cc/paper_files/paper/2022/hash/0a692a24dbc744fca340b9ba33bc6522-Abstract-Conference.html <br />
 
+The code provides the bare minimum required to reproduce the calibration related results obtained from training a ResNet-50 model on CIFAR-10 dataset using Adafocal loss. <br />
 
-The code provides the bare minimum required to reproduce the calibration related results obtained from training a ResNet-50 model on CIFAR-10 dataset using Adafocal loss.
 Most of the starter code is borrowed from the repository https://github.com/torrvision/focal_calibration.
 
 ## Training
