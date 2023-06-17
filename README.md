@@ -4,7 +4,7 @@ This is the official code for the paper: **AdaFocal: Calibration-aware Adaptive 
 **URL**: https://proceedings.neurips.cc/paper_files/paper/2022/hash/0a692a24dbc744fca340b9ba33bc6522-Abstract-Conference.html <br />
 **Arxiv**: 
 
-The code provides the bare minimum required to reproduce the calibration related results obtained from training a ResNet-50 model on CIFAR-10 dataset using Adafocal loss. <br />
+The code provides the bare minimum to reproduce the calibration related results obtained from training a ResNet-50 model on CIFAR-10 dataset using Adafocal loss. <br />
 
 Most of the starter code for training, evaluation and calculating calibration related metrics is borrowed from the repository https://github.com/torrvision/focal_calibration.
 
