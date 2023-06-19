@@ -1,5 +1,5 @@
 # AdaFocal: Calibration-aware Adaptive Focal Loss (NeurIPS 2022)
-This is the official code for the paper
+This is the official code for the paper <br />
 **Title**: **AdaFocal: Calibration-aware Adaptive Focal Loss**. <br />
 **Authors**: Arindam Ghosh, Thomas Schaaf, and Matt Gormley <br />
 **URL**: https://proceedings.neurips.cc/paper_files/paper/2022/hash/0a692a24dbc744fca340b9ba33bc6522-Abstract-Conference.html <br />
