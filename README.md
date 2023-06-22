@@ -3,7 +3,7 @@ This is the official code for the paper <br />
 **Title**: AdaFocal: Calibration-aware Adaptive Focal Loss <br />
 **Authors**: Arindam Ghosh, Thomas Schaaf, and Matt Gormley <br />
 **URL**: https://proceedings.neurips.cc/paper_files/paper/2022/hash/0a692a24dbc744fca340b9ba33bc6522-Abstract-Conference.html <br />
-**Arxiv**: <br />
+**Arxiv**: https://arxiv.org/abs/2211.11838 <br />
 
 The code provides the bare minimum to reproduce the calibration related results obtained from training a ResNet-50 model on CIFAR-10 dataset using Adafocal loss. <br />
 
